@@ -4,7 +4,7 @@ import random
 import asyncio
 
 # Your bot's token
-TOKEN = 'MTMxODU3NDY4MjIzNjI1NjI1Ng.GCRI3W.SDnWOVuhYTo2G4tehTJHr3JRNHd3-kbt5yzggI'
+# TOKEN = 'MTMxODU3NDY4MjIzNjI1NjI1Ng.GCRI3W.SDnWOVuhYTo2G4tehTJHr3JRNHd3-kbt5yzggI'
 
 # Enable intents
 intents = discord.Intents.default()
